@@ -13,7 +13,6 @@ public class App {
     public static String getResponse()
     {
         Scanner scan = new Scanner(System.in);
-        int parsed;
 
         System.out.println("give a number:");
         String answer = scan.nextLine();
